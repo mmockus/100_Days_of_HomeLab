@@ -15,7 +15,7 @@
 
 - [x] Set 100 day goal
 - [ ] Build a server using cloud=init
-= [ ] Establish SSH login to all servers
+- [ ] Establish SSH login to all servers
 - [ ] Rebuild TrueNas Core to TrueNas Scale
 - [ ] Create a Portainer server
 - [ ] Create a kubernetes cluster
