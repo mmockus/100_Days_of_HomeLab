@@ -4,7 +4,7 @@
 
 ## Available hardware
 
-- Supermicro SYS-5018R-M (28CPU, 64GB, 4TBSSD)  -  Proxmox SErver
+- Supermicro SYS-5018R-M (28CPU, 64GB, 4TBSSD)  -  Proxmox Server
 - Unifi Dream Machine Pro
 - Synology DS1821+
 - Raspberry Pi 4 (x3) - Ubuntu - Testing Server
