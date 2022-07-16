@@ -14,13 +14,14 @@
 ## Goals
 
 - [x] Set 100 day goal
-- [ ] Build a server using cloud=init
+- [x] Build a server using cloud=init
 - [ ] Establish SSH login to all servers
 - [ ] Rebuild TrueNas Core to TrueNas Scale
 - [ ] Create a Portainer server
 - [ ] Create a kubernetes cluster
   - [ ] Rancher
   - [ ] Longhorn
+  - [ ] Harvester
 - [ ] Deploy a workload on Kubernetes
 - [ ] Do something in Codespaces
 - [ ] Automate a server configure from Github
