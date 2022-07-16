@@ -2,7 +2,7 @@
 name: 100 day issue
 about: Daily Log of what to do
 title: Day 000 - *Title*
-labels: ''
+labels: '100'
 assignees: mmockus
 
 ---
