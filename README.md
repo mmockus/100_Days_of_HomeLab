@@ -28,5 +28,6 @@
 - [ ] Create a proxy server
 - [ ] [Apache Guacomole](https://guacamole.apache.org/)
 - [ ] pihole gravity-sync
+- [ ] Grafana Server
 - [ ] Host certificate on Proxy server
 - [ ] Establish VPN
