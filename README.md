@@ -13,9 +13,9 @@
 
 ## Goals
 
-- [x] Set 100 day goal
-- [x] Build a server using cloud=init
-- [ ] Establish SSH login to all servers
+- [x] [Set 100 day goal](https://github.com/mmockus/100_Days_of_HomeLab/issues/1)
+- [x] [Build a server using cloud=init](https://github.com/mmockus/100_Days_of_HomeLab/issues/2)
+- [x] [Establish SSH login to all servers](https://github.com/mmockus/100_Days_of_HomeLab/issues/3)
 - [ ] Rebuild TrueNas Core to TrueNas Scale
 - [ ] Create a Portainer server
 - [ ] Create a kubernetes cluster
