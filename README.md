@@ -18,7 +18,7 @@
 - [x] [Establish SSH login to all servers](https://github.com/mmockus/100_Days_of_HomeLab/issues/3)
 - [ ] Rebuild TrueNas Core to TrueNas Scale
 - [ ] Create a Portainer server
-- [ ] Create a kubernetes cluster
+- [x] Create a kubernetes cluster
   - [ ] Rancher
   - [ ] Longhorn
   - [ ] Harvester
@@ -31,3 +31,4 @@
 - [ ] Grafana Server
 - [ ] Host certificate on Proxy server
 - [ ] Establish VPN
+- [ ] Ansible server
